@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+}
+body>h3,body>div,body>p{
+    margin-left: 0px;
+}
+body>h3,#initial,#msg{
+    padding-left: 20px;
+}
+#allbtns{
+    display: flex;
+}
+#allbtns>div>input{
+    background-color: black;
+    border: 1px solid white;
+    border-radius:2px;
+    padding: 5px;
+    width: 240px;
+    color:white;
+}
+h1{
+    margin: 20px;
+}
+*{
+    margin: 10px;
+}
+#sub{
+padding: 10px;
+width: 150px;
+border: none;
+border-radius: 0px;
+margin-left: 20px;
+}
+#initial{
+    color:gray;
+}
